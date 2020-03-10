@@ -1,4 +1,4 @@
-![lmm](lmm.PNG "CSLMM")
+![lmm-python](lmm.png "LMM-Python")
 
 # LMM-Python 
 
