@@ -113,7 +113,6 @@ for i in ind:
 
 beta_name = zip(pvalue, Xname)
 bn = sorted(beta_name)
-bn.reverse()
 
 out = open(outFile, 'w')
 printOutHead()
