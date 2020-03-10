@@ -1,4 +1,4 @@
-![cslmm](cslmm.PNG "CSLMM")
+![lmm](lmm.PNG "CSLMM")
 
 # LMM-Python 
 
