@@ -10,9 +10,12 @@ Wang, H., Aragam, B., & Xing, E. P. Tradeoffs of Linear Mixed Models in Genome-w
 
 LMM-Python is a python package of linear mixed model, including several popular methods used to calculate the kinship matrix, including
 
-* with selected SNPs (LMM-select):  
-* with low rank structure kinship:
+* with selected SNPs (LMM-select): 
+    * [FaST-LMM-Select for addressing confounding from spatial structure and rare variants](https://www.ncbi.nlm.nih.gov/pubmed/23619783) 
+* with low rank structure kinship: 
+    * [Variable Selection in Heterogeneous Datasets: A Truncated-rank Sparse Linear Mixed Model with Applications to Genome-wide Association Studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5889139/)
 * with masked kinship: 
+    * [Two-Variance-Component Model Improves Genetic Prediction in Family Datasets](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667134/)
 
 ## File Structure:
 
