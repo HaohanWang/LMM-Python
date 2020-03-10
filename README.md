@@ -43,6 +43,7 @@ python lmm.py -n data/mice.plink
     -t THRESHOLD      Construct kinship matrix with smaller values masked (smaller than the specificed THRESHOLD)
     -q                Run in quiet mode
     -m                Run without missing genotype imputation
+    -p                Generate a simple Manhattan plot after running
 ```
 #### Data Support
 * The package currently supports CSV and binary PLINK files.
