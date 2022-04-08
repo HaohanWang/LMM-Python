@@ -4,7 +4,7 @@
 
 Implementation of the Python Package of Linear Mixed Model, associated with the following paper:
 
-Wang, H., Aragam, B., & Xing, E. P. Tradeoffs of Linear Mixed Models in Genome-wide Association Studies
+[Wang, Haohan, Bryon Aragam, and Eric P. Xing. "Trade-offs of Linear Mixed Models in Genome-Wide Association Studies." Journal of Computational Biology 29.3 (2022): 233-242.](http://www.cs.cmu.edu/~haohanw/papers/2021/Wang_etal_JCB21.pdf)
 
 ## Introduction
 
